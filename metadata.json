@@ -1,0 +1,6 @@
+{
+  "name": "Opta-Track Viz",
+  "description": "A professional football analysis dashboard combining Opta Event data with DFL Tracking data for synchronized match visualization and statistical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
